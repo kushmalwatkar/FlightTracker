@@ -11,7 +11,7 @@
 LiquidCrystal lcd(13, 12, 14, 27, 26, 25);
 
 // --- WIFI & LOCATION ---
-const char* ssid = "Orion";
+const char* ssid = "######";
 const char* password = "#######";
 const float HOME_LAT = 42.745806;
 const float HOME_LON = -73.742228;
